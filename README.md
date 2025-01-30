@@ -1,8 +1,5 @@
 <h1 align="center">📝 **NotePad--** - A Sleek, Feature-Rich Text Editor Built with PyQt6</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9KPg5UONfbw/giphy.gif" width="300">
-</p>
 
 <p align="center">
   <strong>NotePad--</strong> is a fast, modern, and feature-rich text editor that delivers a seamless user experience. Built with <strong>PyQt6</strong>, it offers a sleek interface, auto-saving, and plenty of customization options.
