@@ -30,8 +30,3 @@
 - `QtWebEngine`
 - `QtCore`
 - `QtGui`
-  
-Install the necessary dependencies using:
-
-```bash
-pip install -r requirements.txt
